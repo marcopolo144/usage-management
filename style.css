@@ -1,0 +1,30 @@
+body{
+  background-color:bisque
+}
+
+table{
+  table-layout: fixed; /* This enforces the "col" widths. */
+}
+
+ table td {
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 12px;
+}
+table th {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+#nav{
+ 
+  white-space: nowrap;
+  
+}
+.a{
+  color: white;
+}
+
+
+ 
+
